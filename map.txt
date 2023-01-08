@@ -1,0 +1,27 @@
+button map:
+
+frisbee shooter (mode 1):
+
+x = toggle modTalon2 held (1 on, 0 off)
+b = toggle modTalon1 held (1 on, 0 off)
+
+hammer (mode 2):
+
+x = toggle modTalon1 and modTalon2 held (-1 on, 0 off for both)
+a = toggle modTalon1 and modTalon2 held (1 on, 0 off for both)
+
+romulus (mode 3):
+
+a = toggle modTalon3 held (-1 on, 0 off)
+y = toggle modTalon3 held (1 on, 0 off)
+b = toggle modTalon4 and modTalon2 held t4:(1 on, 0 off) t2:(-1 on, 0 off)
+
+t-shirt (mode 4):
+
+left bumper = toggle modTalon1 held (1 on, 0 off)
+right bumper = toggle modTalon1 held (-1 on, 0 off)
+
+a = toggle modTalon2 held (-0.45 on, 0 off)
+y = toggle modTalon2 held (0.45 on, 0 off)
+
+right trigger + left trigger + x = toggle modTalon4 (-1 on, 0 off) timeout after 1 sec
