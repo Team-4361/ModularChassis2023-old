@@ -63,7 +63,7 @@ public class RobotContainer {
     /** The container for the robot. Contains subsystems, OI devices, and commands. */
     public RobotContainer() {
         driveSubsystem.setDefaultCommand(driveSubsystem.run(() -> {
-            switch (driveState) {
+            switch (driveControl) {
                 case XBOX:
                     switch (driveMode) {
                         case TANK:
